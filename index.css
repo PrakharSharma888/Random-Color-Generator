@@ -8,6 +8,10 @@ body{
     background-color: #00ffff;
 }
 .mainText{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
     background-color: black;
     text-align: center;
     width: 27%;
@@ -15,7 +19,6 @@ body{
     border: 2px solid black;
     border-radius: 5px;
     padding: 10px 15px 10px 15px;
-    margin: auto;
     margin-top: 230px;
 }
 #but{
